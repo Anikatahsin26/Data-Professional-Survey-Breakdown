@@ -14,7 +14,7 @@ Created calculated columns and measures for in-depth analysis.
 Prerequisites: Ensure you have Power BI Desktop installed.
 
 Open Project in Power BI: Launch Power BI Desktop.
-Open the project file: project_file.pbix.
+Open the project file: Power BI Project.pbix.
 
 Explore Visualizations: Navigate through different tabs to explore visualizations.
 Interact with the dashboards to extract insights.
